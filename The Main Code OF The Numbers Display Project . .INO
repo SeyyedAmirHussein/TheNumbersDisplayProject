@@ -2,7 +2,7 @@
 
 // In this program, We want to Display Numbers .
 
-// The Main Code OF The Numbers Display Project . .INO .
+// The Main Code OF The Numbers Display Project . . INO . .
 
 
 
